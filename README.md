@@ -2,7 +2,7 @@
 
 Add modified version:
 
-[Add to netnewswire](netnewswire://theme/add?url=https://github.com/mikesplain/NNWThemesBroadsheet/archive/refs/heads/word-wrap-normal.zip)
+[Add to netnewswire](netnewswire://theme/add?url=https%3A%2F%2Fgithub.com%2Fmikesplain%2FNNWThemesBroadsheet%2Farchive%2Frefs%2Fheads%2Fword-wrap-normal.zip)
 
 ## Installation instructions
 - Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/8.zip)
