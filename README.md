@@ -1,5 +1,12 @@
 # Broadsheet for NetNewsWire
 
+Add modified version:
+
+<a href="netnewswire://theme/add?url=https://github.com/mikesplain/NNWThemesBroadsheet/archive/refs/heads/word-wrap-normal.zip">
+<img src="https://d33wubrfki0l68.cloudfront.net/646be86ffdbac68995333765afefc108efc343ca/e673e/images/addtonetnewswire.png" style="max-width: 180px;">
+</a>
+
+
 ## Installation instructions
 - Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/8.zip)
 - Open the enclosed `.nnwtheme` in NetNewsWire
